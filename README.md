@@ -6,8 +6,8 @@ A music recommendation system that suggests songs based on a given playlist or t
 
 ## Demo
 
-Live application:
-https://huggingface.co/spaces/Longliveruby/Spotify-Recommendation-System
+Live Demo :
+https://user-images.githubusercontent.com/107134115/201241072-06681109-72ad-4416-b5f0-35322646dc1e.mp4
 
 ---
 
