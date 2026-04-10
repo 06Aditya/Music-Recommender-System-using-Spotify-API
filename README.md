@@ -4,7 +4,7 @@ A music recommendation system that suggests songs based on a given playlist or t
 
 ---
 
-# Spotify-Recommendation-System
+# Demo Video:
 Please visit the following link to access the demo version: [Spotify-Recommendation-System](https://huggingface.co/spaces/Longliveruby/Spotify-Recommendation-System)
 
 
