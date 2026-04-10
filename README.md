@@ -6,8 +6,10 @@ A music recommendation system that suggests songs based on a given playlist or t
 
 ## Demo
 
-Live Demo :
-https://user-images.githubusercontent.com/107134115/201241072-06681109-72ad-4416-b5f0-35322646dc1e.mp4
+<video width="700" controls>
+  <source src="https://user-images.githubusercontent.com/107134115/201241072-06681109-72ad-4416-b5f0-35322646dc1e.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
